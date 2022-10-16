@@ -1,0 +1,24 @@
+/* This website uses the default simplecss stylesheet. 
+Styles in this file overwrite the styles in that stylesheet */
+
+:root {
+  /* Set sans-serif & mono fonts */
+  --sans-font: -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir, "Nimbus Sans L", Roboto, "Noto Sans", "Segoe UI", Arial, Helvetica, "Helvetica Neue", sans-serif;
+  --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+
+  /* Default (light) theme */
+  --bg: #fff;
+  --accent-bg: #cae6f3;
+  --text: #212121;
+  --text-light: #585858;
+  --border: #2b6591;
+  --accent: #f8cf40;
+  --code: #d81b60;
+  --preformatted: #444;
+  --marked: #ffdd33;
+  --disabled: #efefef;
+}
+
+header {
+  background-image: url("");
+}
