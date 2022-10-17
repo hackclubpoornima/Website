@@ -4,8 +4,8 @@ This Repository is meant for Hack Club Poornima website.
 
 ## Acknowledgements
 
- - [Live Demo 💻](https://hackclubpoornima.github.io/website/)
- - [Fork this Repository 🍴](https://github.com/hackclubpoornima/website/fork)
+ - [Live Demo 💻](https://hackclubpoornima.github.io/Website/)
+ - [Fork this Repository 🍴](https://github.com/hackclubpoornima/Website/fork)
  - [Follow us on Github 📄](https://github.com/hackclubpoornima)
 
 
