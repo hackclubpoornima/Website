@@ -7,11 +7,11 @@ Styles in this file overwrite the styles in that stylesheet */
   --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
 
   /* Default (light) theme */
-  --bg: #fff;
-  --accent-bg: #cae6f3;
+  --bg: rgb(255, 255, 255);
+  --accent-bg: #13e73a;
   --text: #212121;
   --text-light: #585858;
-  --border: #2b6591;
+  --border: #001a34;
   --accent: #f8cf40;
   --code: #d81b60;
   --preformatted: #444;
