@@ -8,7 +8,7 @@ Styles in this file overwrite the styles in that stylesheet */
 
   /* Default (light) theme */
   --bg: #fff;
-  --accent-bg: #cae6f3;
+  --accent-bg: rgb(168, 210, 220);
   --text: #212121;
   --text-light: #585858;
   --border: #2b6591;
@@ -20,5 +20,5 @@ Styles in this file overwrite the styles in that stylesheet */
 }
 
 header {
-  background-image: url("");
+  background-image: url("../images/bg.png");
 }

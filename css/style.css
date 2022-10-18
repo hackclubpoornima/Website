@@ -74,7 +74,7 @@ img{
   position: relative;
   overflow: hidden;
   text-align: center;
-  padding: 2.0rem;
+  padding: 1.0rem;
   background: linear-gradient(130deg,
               rgba(15, 15, 128, 0.6),
               rgba(251,251,254,.2));
@@ -131,6 +131,7 @@ img{
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
+  left:15%;
 }
 
 .card__link{
