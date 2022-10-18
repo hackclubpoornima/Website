@@ -74,7 +74,7 @@ body {
 /* Make the header bg full width, but the content inline with body */
 header {
   background: var(--accent-bg);
-  background-image: url("https://www.technocrazed.com/wp-content/uploads/2015/12/HD-Space-Wallpaper-For-Background-23.jpg");
+  /* background-image: url("../img/bg.png"); */
   border-bottom: 1px solid var(--border);
   text-align: center;
   padding: 2rem 0.5rem;
