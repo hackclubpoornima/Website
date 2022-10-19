@@ -21,7 +21,10 @@ for(i=0;i<Object.keys(filenames).length;i++){
         opt.innerHTML = Object.keys(filenames)[i];
         navbar.appendChild(opt);
 }
-
+var btn = document.createElement('label');
+btn.className = "switch";
+btn.innerHTML = '<span class="theme-toggler__label"></span><input id="mode" type="checkbox"><span class="slider round"></span>';
+navbar.appendChild(btn);
 function darkmode(){
     document.getElementById("css").href = "css/base.css";
     sessionStorage.setItem("mode", "dark");
